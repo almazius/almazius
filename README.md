@@ -2,8 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ## Обо мне
-Я Golang-разработчик. Обучаюсь в вузе [МГТУ "Станкин"](https://stankin.ru/) и в [Школе 21](https://21-school.ru/)
-
+Являюсь студентов вуза МГТУ СТАНКИН, а так же Golang разработчиков в компании BlackWallGroup
 
 ## Статистика
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=almazius&hide=&show_icons=true)
